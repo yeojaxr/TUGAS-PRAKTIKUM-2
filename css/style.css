@@ -1,0 +1,15 @@
+.kotak_luar {
+    background-color: aqua;
+    width: 2000px;
+    height: 1000px;
+    display: flex;
+    justify-content: space-between;
+    padding: 700px;
+
+}
+
+.kotak_dalam {
+    background-color: darkcyan;
+    width: 800px;
+    height: 800px;
+}
